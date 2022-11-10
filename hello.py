@@ -1,0 +1,1 @@
+print('hello docker, dockerfile, linux, python3, nano !!!')
